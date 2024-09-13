@@ -1,4 +1,4 @@
-package TestProblem1;
+package TestSetA.TestProblem1;
 
 import org.example.SetA.Problem1.SearchEngine;
 import org.junit.Test;

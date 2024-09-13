@@ -1,4 +1,4 @@
-package TestProblem3;
+package TestSetA.TestProblem3;
 
 import org.example.SetA.Problem3.FrequencyOfCharacters;
 import org.junit.Test;

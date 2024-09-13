@@ -1,4 +1,4 @@
-package TestProblem2;
+package TestSetA.TestProblem2;
 
 import org.example.SetA.Problem2.ExecutingStreams;
 import org.example.SetA.Problem2.Student;
